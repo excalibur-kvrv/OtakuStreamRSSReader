@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.1
+Name=Anime Notifier
+Exec=gnome-terminal -e "/home/kevin/Desktop/otaku_stream_rss_reader/dist/rss_reader/rss_reader"
+Icon=/home/kevin/Desktop/otaku_stream_rss_reader/saberalter.ico
+Type=Application

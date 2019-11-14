@@ -1,0 +1,1 @@
+change the exec of the desktop config to `gnome-terminal -e "path to exec"`
